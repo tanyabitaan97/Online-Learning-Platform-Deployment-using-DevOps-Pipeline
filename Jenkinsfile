@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = 'online-learning-platform'
         CONTAINER_NAME = 'online-learning-platform'
-        HOST_PORT = '8081'
+        HOST_PORT = '8083'
         CONTAINER_PORT = '80'
     }
 
