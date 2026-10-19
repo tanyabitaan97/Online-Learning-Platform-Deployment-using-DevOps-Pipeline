@@ -1,0 +1,3 @@
+[submodule "nptel/iot"]
+	path = nptel/iot
+	url = https://github.com/tanyabitaan97/NPTEL-IOT-JULYTOOCT-17THOCT.git
