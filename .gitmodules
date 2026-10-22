@@ -1,0 +1,3 @@
+[submodule "healthcare/nodejs"]
+	path = healthcare/nodejs
+	url = https://github.com/tanyabitaan97/Healthcare-Appointment-Management-Platform.git
